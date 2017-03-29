@@ -50,6 +50,8 @@ public class MyClassifier {
         test.instance(0).setClassValue(label);
         System.out.println("the label number is : "+label);
         //System.out.println("The Prediction Class is : "+test.instance(0).stringValue(4));
+        
+        //hi
   }
     
     
